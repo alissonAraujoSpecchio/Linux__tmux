@@ -23,6 +23,11 @@ Destroy current session:
 CTRL-b x
 ```
 
+See and navigate through sessions
+```
+CTRL-b w
+```
+
 ## List sessions
 ```
 tmux ls
